@@ -1,0 +1,58 @@
+[
+    {
+        "name": "bh",
+        "weight": 40.0,
+        "height": 5.5,
+        "bmi": 1.32,
+        "timestamp": "2025-08-14 21:42:41"
+    },
+    {
+        "name": "b",
+        "weight": 40.0,
+        "height": 5.5,
+        "bmi": 1.32,
+        "timestamp": "2025-08-14 21:44:38"
+    },
+    {
+        "name": "b",
+        "weight": 34.0,
+        "height": 5.5,
+        "bmi": 1.12,
+        "timestamp": "2025-08-14 21:46:05"
+    },
+    {
+        "name": "b",
+        "weight": 34.0,
+        "height": 5.5,
+        "bmi": 1.12,
+        "timestamp": "2025-08-14 21:46:08"
+    },
+    {
+        "name": "b",
+        "weight": 34.0,
+        "height": 4.5,
+        "bmi": 1.68,
+        "timestamp": "2025-08-14 22:25:05"
+    },
+    {
+        "name": "b",
+        "weight": 34.0,
+        "height": 4.4,
+        "bmi": 1.76,
+        "timestamp": "2025-08-14 22:27:06"
+    },
+    {
+        "name": "bhumika",
+        "weight": 34.0,
+        "height": 4.4,
+        "bmi": 1.76,
+        "timestamp": "2025-08-14 22:33:45"
+    },
+    {
+        "name": "bhumika",
+        "weight": 34.0,
+        "height": 3.4,
+        "bmi": 2.94,
+        "timestamp": "2025-08-14 22:34:03"
+    }
+]
